@@ -1,0 +1,20 @@
+-1. Pytanie numer jeden#
+a. pierwsze#
+b. drugie#
+c. trzecie#
+d. czwarte#
+-2. Pytanie numer dwa#
+a. pierwsze#
+b. drugie#
+c. trzecie#
+d. czwarte#
+-3. Pytanie numer trzy#
+a. pierwsze#
+b. drugie#
+c. trzecie#
+d. czwarte#
+-4. Pytanie numer cztery#
+a. pierwsze#
+b. drugie#
+c. trzecie#
+d. czwarte#

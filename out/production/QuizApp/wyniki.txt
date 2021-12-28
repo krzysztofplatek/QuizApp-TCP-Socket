@@ -1,0 +1,2 @@
+WYNIK => 0
+WYNIK => 0
