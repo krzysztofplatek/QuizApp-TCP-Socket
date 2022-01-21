@@ -25,6 +25,7 @@ public class Client {
             System.err.println("Bład operacji I/O");
             System.exit(1);
         }
+        
 
         while ((fromServer = in.readLine()) != null) {
             String[] que = fromServer.split("#");
